@@ -1,8 +1,8 @@
 # Netflix-Content-Analysis-with-SQL
 [link to the dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
-
-## Functions Overview
+********************
+## SQL Functions and Clauses Overview
 - **CREATE TABLE**: Defines a new table structure for storing Netflix data.
 - **SELECT**: Retrieves data from a database.
 - **COUNT()**: Counts the number of rows that match a specified condition.
@@ -232,3 +232,13 @@ GROUP BY Kid_Friendliness_Label
 ORDER BY total_content DESC;
 ```
 <img width="212" alt="image" src="https://github.com/user-attachments/assets/32a0af25-2f8b-4c42-81e2-e7f50a506165">
+
+
+________________________________________
+
+NAME : Hamza Thamlaoui
+
+Email : hamzathamleoui@gmail.com
+
+Linkedin : www.linkedin.com/in/hamza-thamlaoui-51220a264
+
